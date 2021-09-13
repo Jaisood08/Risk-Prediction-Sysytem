@@ -27,7 +27,7 @@ Accuracy = 62.84
 
 ![ROC](https://github.com/Jaisood08/Risk-Prediction-Sysytem/blob/main/ROC.png)  
 
-![Corelation](https://github.com/Jaisood08/Risk-Prediction-Sysytem/blob/main/Corealtion%20matrix.png)  
+![Imp Factor](https://github.com/Jaisood08/Risk-Prediction-Sysytem/blob/main/Importance%20matrix.png)  
 
 
 ## Screenshots  
