@@ -30,6 +30,10 @@ Accuracy = 62.84
 ![Imp Factor](https://github.com/Jaisood08/Risk-Prediction-Sysytem/blob/main/Importance%20matrix.png)  
 
 
+## FlowChart
+
+![Flow](https://github.com/Jaisood08/Risk-Prediction-Sysytem/blob/main/FlowChart.png)
+
 ## Screenshots  
 
 ![1](https://github.com/Jaisood08/Risk-Prediction-Sysytem/blob/main/SS1.png)  
